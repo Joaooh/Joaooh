@@ -12,12 +12,12 @@
 <h3 align="center">Tech Stack:</h3>
 
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python" width="50"/></a>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java&theme=light" width="50"/></a>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c" width="50"/></a>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=javascript" width="50"/></a>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html" width="50"/></a>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css" width="50"/></a>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql&theme=light" width="50"/></a>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=gcp&theme=light" width="50"/></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python" width="50" title="Python"/></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java&theme=light" width="50" title="Java"/></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c" width="50" title="C"/></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=javascript" width="50" title="JavaScript"/></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html" width="50" title="HTML5"/></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css" width="50" title="CSS3"/></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql&theme=light" width="50" title="MySQL"/></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=gcp&theme=light" width="50" title="Google Cloud Platform"/></a>
 </p>
